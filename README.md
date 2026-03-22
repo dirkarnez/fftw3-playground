@@ -11,4 +11,5 @@ fftw3-playground
 ### Tutorials
 - [FFTW-Emscripten/example/FFTWTest.c at master · sergio2540/FFTW-Emscripten](https://github.com/sergio2540/FFTW-Emscripten/blob/master/example/FFTWTest.c)
 - [FFT performance using NumPy, PyFFTW, and cuFFT - John Parker](https://www.johnaparker.com/blog/fft_2d_performance)
--[FFTW（快速傅里叶变换）中文参考 - 一杯清酒邀明月 - 博客园](https://www.cnblogs.com/ybqjymy/p/14239127.html)
+- [FFTW（快速傅里叶变换）中文参考 - 一杯清酒邀明月 - 博客园](https://www.cnblogs.com/ybqjymy/p/14239127.html)
+- [FFTW - 上海交大超算平台用户手册](https://docs.hpc.sjtu.edu.cn/app/compilers_and_languages/fftw.html)
